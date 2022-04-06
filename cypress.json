@@ -1,0 +1,16 @@
+{
+    "baseUrl":"https://login.sentryc.com/auth/login",
+    "testFiles": "**/*.feature",
+    "watchForFileChanges":false,
+    "chromeWebSecurity": false,
+    "reporter": "cypress-multi-reporters",
+        "reporterOptions": {
+        "configFile": "reporter-config.json"
+  },
+  "env":{
+    "email":"kd-basak@hotmail.com",
+    "invalidEmail":"kd-basakhotmail.com",
+    "password":"Aa11223344.",
+    "invalidPassword":"112233"
+  }
+}

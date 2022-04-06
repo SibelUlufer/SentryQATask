@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="9.1110" tests="4" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-04-06T11:00:12" tests="0" file="cypress/integration/login.feature" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Login" timestamp="2022-04-06T11:00:12" tests="4" time="9.0800" failures="0">
+    <testcase name="Login Unsuccessful login with non-existed data" time="3.8070" classname="Unsuccessful login with non-existed data">
+    </testcase>
+    <testcase name="Login Unsuccessful login with invalid format data" time="1.4620" classname="Unsuccessful login with invalid format data">
+    </testcase>
+    <testcase name="Login Display Terms and Conditions" time="0.7230" classname="Display Terms and Conditions">
+    </testcase>
+    <testcase name="Login E2E Unsuccessful login flow" time="2.9940" classname="E2E Unsuccessful login flow">
+    </testcase>
+  </testsuite>
+</testsuites>

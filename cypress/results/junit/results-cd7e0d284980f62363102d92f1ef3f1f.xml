@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="7.0900" tests="3" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-04-06T11:00:00" tests="0" file="cypress/integration/forgotPassword.feature" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Forgot password" timestamp="2022-04-06T11:00:00" tests="3" time="7.0700" failures="0">
+    <testcase name="Forgot password Forgot Password with invalid format email" time="4.2770" classname="Forgot Password with invalid format email">
+    </testcase>
+    <testcase name="Forgot password Forgot Password with non-existed email" time="1.8710" classname="Forgot Password with non-existed email">
+    </testcase>
+    <testcase name="Forgot password Display Terms and Conditions" time="0.8780" classname="Display Terms and Conditions">
+    </testcase>
+  </testsuite>
+</testsuites>
